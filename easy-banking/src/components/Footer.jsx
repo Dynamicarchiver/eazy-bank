@@ -8,11 +8,11 @@ const Footer = () => {
         <div className='flex flex-col gap-[45px]'>
            <img src="../../public/images/logo_footer.svg" alt="eazy_banking_logo" className='fill-White' />
            <div className='flex'>
-            <img src="../../public/images/icon-facebook.svg" alt="facebook icon" />
-             <img src="../../public/images/icon-youtube.svg" alt="youtube icon" />
-            <img src="../../public/images/icon-twitter.svg" alt="twitter icon" />
-             <img src="../../public/images/icon-pinterest.svg" alt="pinterst icon" />
-              <img src="../../public/images/icon-instagram.svg" alt="facebook icon" />
+            <img src="/images/icon-facebook.svg" alt="facebook icon" />
+             <img src="/images/icon-youtube.svg" alt="youtube icon" />
+            <img src="/images/icon-twitter.svg" alt="twitter icon" />
+             <img src="/images/icon-pinterest.svg" alt="pinterst icon" />
+              <img src="/images/icon-instagram.svg" alt="facebook icon" />
            </div>
         </div>
          <ul className='flex flex-col gap-[15px]'>

@@ -10,28 +10,28 @@ const WhyUs = () => {
 
             <div className='flex gap-[2 0px]'>
                 <div className='flex flex-col gap-[20px]'>
-                    <img src="../../public/images/icon-online.svg" alt="Online_banking_icon" className='w-[28%]'/>
+                    <img src="/images/icon-online.svg" alt="Online_banking_icon" className='w-[28%]'/>
                     <h4 className='text-Dark-Blue text-[20px]'> Online Banking </h4>
                    <p> Our modern web and mobile applications allow you to keep track of your finances 
                     wherever you are in the world.</p>
                 </div>
 
                     <div className='flex flex-col gap-[20px]'>
-                         <img src="../../public/images/icon-budgeting.svg" alt="Simple_budgeting_icon" className='w-[28%]'/>
+                         <img src="/images/icon-budgeting.svg" alt="Simple_budgeting_icon" className='w-[28%]'/>
                          <h4 className='text-Dark-Blue text-[20px]'>Simple Budgeting</h4>
                         <p>See exactly where your money goes each month. Receive notifications when you’re 
                         close to hitting your limits.</p>
                     </div>
 
                     <div className='flex flex-col gap-[20px]'>
-                         <img src="../../public/images/icon-onboarding.svg" alt="Fast_onboarding_icon" className='w-[28%]'/>
+                         <img src="/images/icon-onboarding.svg" alt="Fast_onboarding_icon" className='w-[28%]'/>
                          <h4 className='text-Dark-Blue text-[20px]'>Fast Onboarding</h4>
                        <p> We don’t do branches. Open your account in minutes online and start taking control 
                         of your finances right away.</p>
                     </div>
 
                     <div className='flex flex-col gap-[20px]'>
-                         <img src="../../public/images/icon-api.svg" alt="open_api_icon" className='w-[28%]'/>
+                         <img src="/images/icon-api.svg" alt="open_api_icon" className='w-[28%]'/>
                          <h4 className='text-Dark-Blue text-[20px]'>Open API</h4>
                         <p>Manage your savings, investments, pension, and much more from one account. Tracking 
                         your money has never been easier.</p>
