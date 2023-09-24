@@ -6,7 +6,7 @@ const Footer = () => {
     <div className="bg-Dark-Blue w-full  text-Very-Light-Gray">
       <div className='w-[85%] mx-auto my-0 flex py-[50px] justify-between'>
         <div className='flex flex-col gap-[45px]'>
-           <img src="/images/logo_footer.svg" alt="eazy_banking_logo" className='fill-White' />
+           <img src="/images/logo_footer.svg" alt="eazy_banking_logo" />
            <div className='flex'>
             <img src="/images/icon-facebook.svg" alt="facebook icon" />
              <img src="/images/icon-youtube.svg" alt="youtube icon" />
