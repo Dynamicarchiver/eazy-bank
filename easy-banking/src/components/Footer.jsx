@@ -11,7 +11,7 @@ const Footer = () => {
             <img src="/images/icon-facebook.svg" alt="facebook icon" />
              <img src="/images/icon-youtube.svg" alt="youtube icon" />
             <img src="/images/icon-twitter.svg" alt="twitter icon" />
-             <img src="/images/icon-pinterest.svg" alt="pinterst icon" />
+             <img src="/images/icon-pinterest.svg" alt="pinterest icon" />
               <img src="/images/icon-instagram.svg" alt="facebook icon" />
            </div>
         </div>
@@ -30,7 +30,7 @@ const Footer = () => {
             <div className='flex flex-col gap-[25px]'>
             <RequestBtn />
 
-            <p className='text-Grayish-Blue'>© Easybank. All Rights Reserved </p>
+            <p className='text-Grayish-Blue'>© Easybank. All Rights Reserved</p>
             </div>
             </div> 
     </div>
